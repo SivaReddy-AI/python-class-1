@@ -12,5 +12,5 @@ Linux commands   ls, cd, cd .., tree, mkdir,
 creating code space
 
 Assignement for class1
-    create a repo with python program and then commmit
+    create a repo with python program and then commmit to remote
 
